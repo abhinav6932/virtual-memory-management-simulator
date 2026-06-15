@@ -1,5 +1,9 @@
 # Virtual Memory Management Simulator
 
+🌐 **Live Demo:** [Open Project](https://virtual-memory-management-simulator.vercel.app)
+
+📂 **GitHub Repository:** [View Source Code](https://github.com/abhinav6932/virtual-memory-management-simulator)
+
 An interactive web-based educational tool that visualizes Operating System memory management concepts and page replacement algorithms in real time.
 
 ## Overview
